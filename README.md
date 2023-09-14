@@ -9,6 +9,7 @@ I simply documented this so if I have to repeat the setup in about 5 years, I st
 And if it helps you on top of that: great! <br>
 If you raise an issue in this repository asking for help, I might answer. But I don't expect anyone to need help.
 
+I do not know if this could cause any issues, but I do not take any responsibility for whatever happens when you use this.
 ## Modifications
 I am writing a lot of markdown when documenting code. This requires a lot of backticks  `` ` ``. The default behavior for backticks is to function as a deadkey. 
 Meaning that it is waiting for a second character to be typed and then constructing a composed character. For example, the combination `` `+a `` creates `à`.
